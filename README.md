@@ -15,7 +15,7 @@ SIA, short for Server Intelligence Agent, is a Vercel-friendly SaaS for understa
 - OpenAI-backed report generation with heuristic fallback
 - Supabase migration with teams, profiles, servers, scans, triggers, and RLS
 - Vercel cron endpoint scaffold for daily summary jobs
-
+test
 ## Architecture
 
 - `app/`: Next.js App Router pages, API routes, and global layout
